@@ -3,12 +3,12 @@ import json
 
 
 
-# temperature_token = "WYJBKG4mkbj9V4a9irpW"
-# humidity_token = "IG4D3bxb86ODWZs6CCQM"
-# pressure_token = "mynhapkaudQOcisM4VND"
-# lux_token = "kJnGiMBSULzf8tYuWC9j"
-# ambient_temperature_token = "rGK8FogGwP9cDDPQ9IFw"
-# moisture_token="PDCq94jkwt1d2FtrC8Ep"
+# temperature_token = "WYJBKxxxxj9V4a9irpW"
+# humidity_token = "IG4D3bxxxxODWZs6CCQM"
+# pressure_token = "mynhxxxxOcisM4VND"
+# lux_token = "kJnGiMBSxxxxYuWC9j"
+# ambient_temperature_token = "rGK8Fxxxx9cDDPQ9IFw"
+# moisture_token="PDCq94xxx2FtrC8Ep"
 # link ="https://demo.thingsboard.io"
 
 
